@@ -1,0 +1,35 @@
+export const profile = {
+  name: "Issam Aboussakkine",
+  role: "Étudiant en Licence Computer Science SIR– FSTG Marrakech",
+  location: "Marrakech, Maroc",
+  email: "issamaboussakkine@gmail.com",
+  phone: "+212 6 87 39 93 87",
+  socials: [
+    { label: "GitHub", href: "https://github.com/issamaboussakkine" },
+    {
+      label: "LinkedIn",
+      href: "https://www.linkedin.com/in/issam-aboussakkine-32357039b/",
+    },
+  ],
+  about:
+    "Étudiant en Computer Science à la Faculté des Sciences et Techniques de Marrakech (FSTG). Passionné par le développement web et les technologies modernes. Je suis à la recherche d'un stage PFE de deux mois (avril - juin 2026) pour mettre en pratique mes compétences en développement.",
+  skills: [
+    "Java",
+    "JDBC",
+    "Java Swing",
+    "Spring Boot",
+    "Hibernate",
+    "JEE",
+    "React",
+    "TypeScript",
+    "Tailwind",
+    "JavaScript",
+    "MySQL",
+    "Git",
+    "Linux",
+    "Réseaux",
+    "Système d'exploitation",
+    "Laravel",
+    "PHP",
+  ],
+};
